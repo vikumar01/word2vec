@@ -1,2 +1,2 @@
 # word2vec
-Implementation and visualization using PCA
+Implementation and visualization using PCA.
